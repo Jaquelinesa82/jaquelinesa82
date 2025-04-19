@@ -1,6 +1,5 @@
-### Olá, meu nome é Jaqueline Sá Santos 👋
+### Olá, meu nome é JAQUELINE SANTOS 👋
  ### Desenvolvedora Back-end
- 
  
  🎓 Bacharelada em sistema de informação e paralelamente cursos complementares
 
